@@ -1,0 +1,8 @@
+Números originais -> A=25, B=45
+
+A criptografado -> 5ea1100401020000c05901000000000028b52ffda06100020064ca0aec9a0d34779c[...]
+B criptografado -> 5ea11004010200008d5901000000000028b52ffda061000200ccc80a8c960d34779c[...]
+
+Resultado homomórfico (A * B) criptografado -> 5ea1100401020000580502000000000028b52ffd[...]
+Resultado final após descriptografia -> A * B = 1125
+

@@ -1,0 +1,18 @@
+{
+    "dado_normal": {
+        "m1": 25,
+        "m2": 45
+    },
+    "dado_criptografado": {
+        "c1": "5ea1100401020000c05901000000000028b52ffda06100020064ca0aec9a0d34779c[...]"
+        "c2": "5ea11004010200008d5901000000000028b52ffda061000200ccc80a8c960d34779c[...]"
+    },
+    "operacao_homomorfica": {
+        "tipo": "multiplicacao",
+        "resultado_criptografado": "5ea1100401020000580502000000000028b52ffd[...]"
+    },
+    "resultado_final_descriptografado": {
+        "resultado_mult": "1125"
+    }
+}
+

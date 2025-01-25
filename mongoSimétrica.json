@@ -1,0 +1,32 @@
+{
+    "dado_normal": {
+        "m1": "VALUE_1",
+        "m2": "VALUE_2"
+    },
+    "dado_criptografado": {
+        "c1": "ENCRYPTED_VALUE_1",
+        "c2": "ENCRYPTED_VALUE_2"
+    },
+    "Operacao": {
+        "dado_descriptografado": {
+            "m1": "VALUE_1",
+            "m2": "VALUE_2"
+        },
+
+        "tipo": "Multiplicacao",
+        
+        "resposta_descriptografada": {
+            "resultado_multiplicacao": "DECRYPTED_MULTIPLICATION_RESULT"
+        },
+
+        "resposta_criptografado": {
+        "c1": "ENCRYPTED_VALUE_1"
+        } 
+    },
+    "resultado_final_descriptografado": {
+        "resultado_mulltiplicacao": "DECRYPTED_MULTIPLICATION_RESULT"
+    }
+    
+}
+
+

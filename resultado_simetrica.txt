@@ -1,0 +1,32 @@
+{
+    "dado_normal": {
+        "m1": 25,
+        "m2": 45
+    },
+    "dado_criptografado": {
+        "c1": "5ea1100401020000c05901000000000028b52ffda06100020064ca0aec9a0d34779c[...]",
+        "c2": "5ea11004010200008d5901000000000028b52ffda061000200ccc80a8c960d34779c[...]"
+    },
+    "Operacao": {
+        "dado_descriptografado": {
+            "m1": 25,
+            "m2": 45
+        },
+
+        "tipo": "Multiplicacao",
+        
+        "resposta_descriptografada": {
+            "resultado_multiplicacao": 1125
+        },
+
+        "resposta_criptografado": {
+        "c1": "5ea1100401020000580502000000000028b52ffd[...]"
+        } 
+    },
+    "resultado_final_descriptografado": {
+        "resultado_mulltiplicacao": 1125
+    }
+    
+}
+
+

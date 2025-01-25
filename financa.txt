@@ -1,0 +1,39 @@
+{
+    "dados_cliente": {
+        "saldos_originais": {
+            "conta_corrente": 5000,
+            "poupanca": 15000,
+            "investimentos": 30000
+        },
+        "transacoes_originais": [
+            1000, 500, -200, 1500, -300
+        ]
+    },
+    "dados_criptografados": {
+        "saldos_criptografados": {
+            "conta_corrente": "6fa2304a01020000c4d0010000000000a8b4f8b9[...]",
+            "poupanca": "6fa2304a01020000f5a2010000000000c8a4e9b7[...]",
+            "investimentos": "6fa2304a010200008bb3010000000000b2d4c9a6[...]"
+        },
+        "transacoes_criptografadas": [
+            "8ec2415b01020000d5b601000000000078b3a7c8[...]",
+            "9dc3515c01020000e8b701000000000098c4a8d9[...]",
+            "abc4525d01020000f9b8010000000000a8d5b9e0[...]",
+            "bcd5535e01020000a0c9010000000000b9e6cafa[...]",
+            "cde6545f01020000b0da010000000000cad7dbfb[...]"
+        ]
+    },
+    "operacoes_homomorficas": {
+        "saldo_total_criptografado": "d3f6656801020000e7f6010000000000d2e5eafa[...]",
+        "media_transacoes_criptografada": "e4g7767901020000f9f7010000000000e3f6fb0b[...]"
+    },
+    "resultados_descriptografados": {
+        "saldo_total": 50000,
+        "media_transacoes": 700
+    },
+    "analise_financeira": {
+        "recomendacao": "Investir uma parte do saldo total em um fundo de baixo risco para 
+                        diversificar a carteira e aumentar o retorno potencial."
+    }
+}
+

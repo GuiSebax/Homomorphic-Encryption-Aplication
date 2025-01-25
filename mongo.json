@@ -1,0 +1,20 @@
+{
+    "dado_normal": {
+        "m1": "VALUE_1",
+        "m2": "VALUE_2"
+    },
+    "dado_criptografado": {
+        "c1": "ENCRYPTED_VALUE_1",
+        "c2": "ENCRYPTED_VALUE_2"
+    },
+    "operacao_homomorfica": {
+        "tipo": "soma",
+        "resultado_criptografado": "ENCRYPTED_SUM_RESULT"
+    },
+    "resultado_final_descriptografado": {
+        "resultado_soma": "DECRYPTED_SUM_RESULT"
+    }
+    
+}
+
+
